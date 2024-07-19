@@ -1,0 +1,3 @@
+rep "Panda@ASTI@cloud"
+  path "/"
+    smartbranch "/main"
